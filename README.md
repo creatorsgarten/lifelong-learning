@@ -1,2 +1,2 @@
 # lifelong-learning
-Documenting the the learning journey
+Documentation of our mistakes, learning and experinces through our shared experinces! 
